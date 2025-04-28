@@ -1,5 +1,3 @@
-# Fork of https://github.com/sourabhv/FlapPyBird
-
 from itertools import cycle
 import random
 import sys
